@@ -15,6 +15,9 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 
 #### Tensorflow with GANs
 
+* [Image Colorization with Generative Adversarial Networks](https://github.com/ImagingLab/Colorizing-with-GANs) - 
+Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv.org/abs/1803.05400
+
 * [Image-colorization-using-CycleGAN](https://github.com/ArkaJU/Image-Colorization-CycleGAN) - Colorization of grayscale images using CycleGAN in TensorFlow.
 
 #### Keras
@@ -24,6 +27,11 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 #### Fast.AI
 
 * [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images.
+
+#### Caffee
+
+* [Colorful Image Colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. http://richzhang.github.io/colorization/
+* [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks. https://richzhang.github.io/ideepcolor/
 
 #### PyTorch
 

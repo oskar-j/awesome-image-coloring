@@ -39,7 +39,7 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 * [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization https://richzhang.github.io/ideepcolor/
 * [Automatic Image Colorization](https://github.com/kainoj/colnet) - Automatic Image Colorization with Simultaneous Classification – based on "Let there be Color!".
 * [Image colorization with GANs](https://github.com/karoly-hars/GAN_image_colorizing) - Image colorization with generative adversarial networks on the CIFAR10 dataset.
-* [Colorful Image Colorization PyTorch](https://github.com/Time0o/pytorch-colorful-colorization) - A from-scratch PyTorch implementation of "Colorful Image Colorization" [1] by Zhang et al. created for the Deep Learning in Data Science course at KTH Stockholm.
+* [Colorful Image Colorization PyTorch](https://github.com/Time0o/pytorch-colorful-colorization) - A from-scratch PyTorch implementation of "Colorful Image Colorization" by Zhang et al. created for the Deep Learning in Data Science course at KTH Stockholm.
 
 ### C++
 

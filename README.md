@@ -21,6 +21,10 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 
 * [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) - Coloring black and white images with deep learning.
 
+#### Fast.AI
+
+* [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images.
+
 #### PyTorch
 
 * [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization https://richzhang.github.io/ideepcolor/

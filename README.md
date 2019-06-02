@@ -12,6 +12,7 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 * [Image Colorization using Convolutional Networks](https://github.com/shekkizh/Colorization.tensorflow) - Image colorization using CNNs in tensorflow.
 * [Image and video colorizer](https://github.com/PrimozGodec/ImageColorization) - Image and video colorizer is package for automatic image and video colorization. Models are allready trained.
 * [PIC - Probabilistic Image Colorization](https://github.com/ameroyer/PIC) - Probabilistic Image Colorization https://arxiv.org/abs/1705.04258
+* [Photo Coloring Using End2end CNN based Model!](https://github.com/AbdelrahmanRadwan/photo-coloring) - A Deep Learning based coloring tool, which can color a black-white or gray picture.
 
 #### Tensorflow with GANs
 

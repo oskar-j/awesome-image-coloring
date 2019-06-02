@@ -24,6 +24,12 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 #### PyTorch
 
 * [Interactive Deep Colorization in PyTorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization https://richzhang.github.io/ideepcolor/
+* [Automatic Image Colorization](https://github.com/kainoj/colnet) - Automatic Image Colorization with Simultaneous Classification – based on "Let there be Color!".
+* [Image colorization with GANs](https://github.com/karoly-hars/GAN_image_colorizing) - Image colorization with generative adversarial networks on the CIFAR10 dataset.
+
+### C++
+
+* [Beyond Landscapes: An Exemplar-based Image colorization method](https://github.com/saulo-p/Exemplar-Image-Colorization) - Exemplar-based Image Colorization method based on superpixel segmentation and classification.
 
 ## Relevant knowledge only
 

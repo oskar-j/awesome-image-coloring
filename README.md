@@ -1,6 +1,10 @@
 # Awesome Software for Image Coloring [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome AI-powered image coloring frameworks, libraries and software. Inspired by `josephmisiti/awesome-machine-learning`. It's good idea to explore the GitHub topic as well - [Topic "Image colorization"](https://github.com/topics/image-colorization). In comparison to the awesome list `MarkMoHR/Awesome-Image-Colorization` (which focuses on research papers), I focus on practical open-source software. 
+A curated list of awesome AI-powered image coloring frameworks, libraries and software. Inspired by `josephmisiti/awesome-machine-learning`. It's a good idea to explore the GitHub topic as well - [Topic "Image colorization"](https://github.com/topics/image-colorization). In comparison to the awesome list `MarkMoHR/Awesome-Image-Colorization` (which focuses on research papers), I focus on practical open-source software.
+
+## Considerations
+
+Most of the software runs in `Python`, and requires some kind of an AI frameworks (e.g. `Tensorflow`) - which means you may need a GPU with a configured `CUDA` toolkit to run it in a reasonable time. 
 
 ## Frameworks and libraries
 

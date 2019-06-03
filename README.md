@@ -4,7 +4,7 @@ A curated list of awesome AI-powered image coloring frameworks, libraries and so
 
 ## Frameworks and libraries
 
-### Python
+### :snake: Python
 
 #### Tensorflow
 
@@ -47,6 +47,6 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 * [Beyond Landscapes: An Exemplar-based Image colorization method](https://github.com/saulo-p/Exemplar-Image-Colorization) - Exemplar-based Image Colorization method based on superpixel segmentation and classification.
 
-## Relevant knowledge only
+## :books: Relevant knowledge only
 
 * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - A collection of Deep Learning based Image Colorization and Video Colorization papers.

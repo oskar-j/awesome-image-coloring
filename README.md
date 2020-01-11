@@ -52,6 +52,12 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 * [Beyond Landscapes: An Exemplar-based Image colorization method](https://github.com/saulo-p/Exemplar-Image-Colorization) - Exemplar-based Image Colorization method based on superpixel segmentation and classification.
 
+## Implementations / apps
+
+### iOS
+
+* [Colorizer iOS](https://github.com/alex011235/Colorizer-iOS) - Transform grayscale photos to color photos in iOS
+
 ## :books: Relevant knowledge, books and papers
 
 * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - A collection of Deep Learning based Image Colorization and Video Colorization papers.

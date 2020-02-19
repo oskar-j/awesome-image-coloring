@@ -52,6 +52,10 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 * [Beyond Landscapes: An Exemplar-based Image colorization method](https://github.com/saulo-p/Exemplar-Image-Colorization) - Exemplar-based Image Colorization method based on superpixel segmentation and classification.
 
+## Language-based colorization
+
+* [SketchySceneColorization](https://github.com/SketchyScene/SketchySceneColorization) - Language-based Colorization of Scene Sketches. (SIGGRAPH Asia 2019) https://sketchyscene.github.io/SketchySceneColorization/
+
 ## Implementations / apps
 
 ### iOS

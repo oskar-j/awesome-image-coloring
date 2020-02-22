@@ -28,8 +28,12 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 #### Keras
 
 * [Coloring Black and White photos with Neural Networks](https://github.com/emilwallner/Coloring-greyscale-images) - Coloring black and white images with deep learning.
+
 * [JadeBlue96](https://github.com/JadeBlue96/Image-Colorization-of-Historical-Paintings) - Recolorizing grayscaled historical paintings and photos with Deep Learning using an Autoencoder CNN.
+
 * [Image-Coloring](https://github.com/aman-chauhan/Image-Coloring) - Deep Neural Net for coloring grayscale images using local and global image features
+
+* [Image-Colorization](https://github.com/thevarunsharma/Image-Colorization) - Automatic Image Colorization using a Convolutional Network (U-Net)
 
 #### Fast.AI
 

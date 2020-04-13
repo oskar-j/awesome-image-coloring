@@ -47,10 +47,15 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 * [Image colorization with GANs](https://github.com/karoly-hars/GAN_image_colorizing) - Image colorization with generative adversarial networks on the CIFAR10 dataset.
 * [Colorful Image Colorization PyTorch](https://github.com/Time0o/pytorch-colorful-colorization) - A from-scratch PyTorch implementation of "Colorful Image Colorization" by Zhang et al. created for the Deep Learning in Data Science course at KTH Stockholm.
 * [Colorful Image Colorization](https://github.com/Epiphqny/Colorization) - Pytorch implementation of the paper Colorful Image Colorization https://arxiv.org/abs/1603.08511
+* [Square-Images-Colorization](https://github.com/done1892/Square-Images-Colorization) - Colorization algorithms for images depicting cities squares
 
 ### C++
 
 * [Beyond Landscapes: An Exemplar-based Image colorization method](https://github.com/saulo-p/Exemplar-Image-Colorization) - Exemplar-based Image Colorization method based on superpixel segmentation and classification.
+
+### C#
+
+* [StyleTransfer-Colorization-SuperResolution](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution) - Demonstration implementations of neural network image processing algorithms.
 
 ## Language-based colorization
 

@@ -63,6 +63,10 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 ## Implementations / apps
 
+### Web / Online tools
+
+* [PhotoRestore.ai](https://photorestore.ai) - AI-powered photo restoration and B&W colorization. Repair scratches, fading, and tears; automatic colorization. No technical knowledge needed.
+
 ### iOS
 
 * [Colorizer iOS](https://github.com/alex011235/Colorizer-iOS) - Transform grayscale photos to color photos in iOS

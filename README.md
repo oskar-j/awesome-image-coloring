@@ -69,7 +69,7 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 ### Web
 
-* [ArtImageHub](https://www.artimagehub.com/) - AI photo restorer, colorizer, and enhancer. Upload for free, restore damaged or faded old photos, add color, and enhance faces — pay only to download.
+* [ArtImageHub](https://www.artimagehub.com/) - AI photo restorer, colorizer, and enhancer. Restore damaged or faded old photos, add color, and enhance faces. $4.99 one-time, no subscription.
 
 ## :books: Relevant knowledge, books and papers
 

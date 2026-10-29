@@ -67,6 +67,10 @@ Grayscale Image Colorization with Generative Adversarial Networks. https://arxiv
 
 * [Colorizer iOS](https://github.com/alex011235/Colorizer-iOS) - Transform grayscale photos to color photos in iOS
 
+### Web
+
+* [ArtImageHub](https://www.artimagehub.com/) - AI photo restorer, colorizer, and enhancer. Restore damaged or faded old photos, add color, and enhance faces. $4.99 one-time, no subscription.
+
 ## :books: Relevant knowledge, books and papers
 
 * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - A collection of Deep Learning based Image Colorization and Video Colorization papers.
